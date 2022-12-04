@@ -110,7 +110,7 @@ training_parameters:
     warmup_factor: 0.2
     warmup_iterations: 1000
     max_iterations: 36000
-    batch_size: 128
+    batch_size: 48
     num_workers: 8
     task_size_proportional_sampling: true
     monitored_metric: m4c_textvqa/textvqa_accuracy

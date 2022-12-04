@@ -22,8 +22,8 @@ For more details, please refer to our
     }
 
 ### Prerequisites
-* Python 3.6
-* Pytorch 1.4.0
+* Python 3.8
+* Pytorch 1.7.0
 * Please refer to ``requirements.txt``. Or using
 
   ```
@@ -37,7 +37,7 @@ For more details, please refer to our
     ```
     git clone https://github.com/xiaojino/TWA.git
     cd TWA
-    python setup.py develop
+    python setup.py develop --user
     ```
 
 2. Data
